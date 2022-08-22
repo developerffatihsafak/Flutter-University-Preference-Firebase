@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1038770273806",
+    "firebase_url": "https://fir-remider-default-rtdb.firebaseio.com",
+    "project_id": "fir-remider",
+    "storage_bucket": "fir-remider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038770273806:android:9dbc661fa3838f43cbc65f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038770273806-o0f4uemlel67aigphqj2vgk0p6chirbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZpeZgDZkZhh-QGyOd78ux3gDcDbU7v4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038770273806-o0f4uemlel67aigphqj2vgk0p6chirbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
